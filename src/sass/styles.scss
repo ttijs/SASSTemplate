@@ -1,0 +1,14 @@
+$primary: green;
+
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+
+div {
+}
+
+a {
+    color: blue;
+    &:hover {
+        color: yellow;
+    }
+}
+
